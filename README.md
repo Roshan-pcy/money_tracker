@@ -1,4 +1,4 @@
-# MMAS: Money Tracker
+# MMAS: Money Trackers
 
 > An optimized application for daily expense tracking and finance management. <br />
 
